@@ -11,15 +11,7 @@ Steps:
 3. Click on add
 
 4. A page loads up that will say at the top, "Create a virtual machine". I currently have a student account set up with Microsoft Azure which also give you $100 o credit to be able to test out some of these services. If you are a student and you have a school email that was given to you by your high school, community college, or university then go to this link https://azure.microsoft.com/en-us/free/students/. If you are a student the click on "activate now" and follow the steps to create a student account. When choosing your project details the users with student accounts will be allowed to choose the Azure for Students subscription.
-	
-<html>
-<body>
 
-<h2>HTML Image</h2>
-<img src="firstAzure.png" alt="VM Azure" width="500" height="333">
-
-</body>
-</html>
 5. Choose your subscription
 
 6. Create a new resource unless if one is already available.
